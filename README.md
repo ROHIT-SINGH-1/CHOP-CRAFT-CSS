@@ -1,48 +1,47 @@
-# ChopCraft CSS
+# CHOPCRAFT CSS
 
 DYNAMIC SWORD ANIMATION IN CSS BY ROHIT SINGH. ENGAGE YOUR AUDIENCE WITH THIS CUSTOMIZABLE CREATION.
 
-## Demo
+## DEMO
 
-You can view a live demo on [CodePen](https://codepen.io/ufpbzszy-the-decoder/pen/MWxJgxz).
+YOU CAN VIEW A LIVE DEMO ON [CODEPEN](HTTPS://CODEPEN.IO/UFPBZSZY-THE-DECODER/PEN/MWXJGXZ).
 
-## Stylesheet Breakdown
+## STYLESHEET BREAKDOWN
 
-- **:root:** Defines CSS variables for easy customization.
-- **Sword Container (.sword):** Positions the sword and applies a chopping animation.
-- **Blade (.blade):** Represents the sword blade with gradient colors and a subtle glow.
-- **Handle (.handle):** Defines the sword handle with a realistic appearance.
+- **:ROOT:** DEFINES CSS VARIABLES FOR EASY CUSTOMIZATION.
+- **SWORD CONTAINER (.SWORD):** POSITIONS THE SWORD AND APPLIES A CHOPPING ANIMATION.
+- **BLADE (.BLADE):** REPRESENTS THE SWORD BLADE WITH GRADIENT COLORS AND A SUBTLE GLOW.
+- **HANDLE (.HANDLE):** DEFINES THE SWORD HANDLE WITH A REALISTIC APPEARANCE.
 
-## Square Background Animation
+## SQUARE BACKGROUND ANIMATION
 
-The background square adds an extra layer of visual interest:
+THE BACKGROUND SQUARE ADDS AN EXTRA LAYER OF VISUAL INTEREST:
 
-- **Square Container (.square):** Encompasses the entire animation.
-- **Square Before and After Pseudo-elements:** Create a stylish background with an image and dynamic color changes.
+- **SQUARE CONTAINER (.SQUARE):** ENCOMPASSES THE ENTIRE ANIMATION.
+- **SQUARE BEFORE AND AFTER PSEUDO-ELEMENTS:** CREATE A STYLISH BACKGROUND WITH AN IMAGE AND DYNAMIC COLOR CHANGES.
 
-## Shake Animation
+## SHAKE ANIMATION
 
-The subtle shake animation adds a touch of realism and excitement to the overall presentation.
+THE SUBTLE SHAKE ANIMATION ADDS A TOUCH OF REALISM AND EXCITEMENT TO THE OVERALL PRESENTATION.
 
-## Acknowledgments
+## ACKNOWLEDGMENTS
 
-Special thanks to [CodePen](https://codepen.io/) for providing a platform to showcase and share this creative CSS animation.
+SPECIAL THANKS TO [CODEPEN](HTTPS://CODEPEN.IO/) FOR PROVIDING A PLATFORM TO SHOWCASE AND SHARE THIS CREATIVE CSS ANIMATION.
 
-## Contributing
+## CONTRIBUTING
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
+CONTRIBUTIONS ARE WELCOME! FEEL FREE TO OPEN ISSUES OR SUBMIT PULL REQUESTS.
 
-## Issues and Bugs
+## ISSUES AND BUGS
 
-If you encounter any issues or find a bug, please [open an issue](https://github.com/ROHIT-SINGH-1/ChopCraftCSS/issues).
+IF YOU ENCOUNTER ANY ISSUES OR FIND A BUG, PLEASE [OPEN AN ISSUE](HTTPS://GITHUB.COM/ROHIT-SINGH-1/CHOPCRAFTCSS/ISSUES).
 
-## Getting Started
-## Author
+## GETTING STARTED
+## AUTHOR
 
-- **Rohit Singh:** [GitHub](https://github.com/ROHIT-SINGH-1)
+- **ROHIT SINGH:** [GITHUB](HTTPS://GITHUB.COM/ROHIT-SINGH-1)
 
-1. Clone the repository:
+1. CLONE THE REPOSITORY:
    
-```bash
-git clone https://github.com/ROHIT-SINGH-1/ChopCraftCSS.git sir please write more
-
+```BASH
+git clone https://github.com/ROHIT-SINGH-1/CHOPCRAFTCSS.git 
